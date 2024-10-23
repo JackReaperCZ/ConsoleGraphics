@@ -1,0 +1,17 @@
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\bin\Debug\net8.0\ConsoleGraphics.exe
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\bin\Debug\net8.0\ConsoleGraphics.deps.json
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\bin\Debug\net8.0\ConsoleGraphics.runtimeconfig.json
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\bin\Debug\net8.0\ConsoleGraphics.dll
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\bin\Debug\net8.0\ConsoleGraphics.pdb
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.AssemblyInfoInputs.cache
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.AssemblyInfo.cs
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.dll
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\refint\ConsoleGraphics.dll
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.pdb
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.genruntimeconfig.cache
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ref\ConsoleGraphics.dll
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleGraphics.csproj.AssemblyReference.cache
+D:\RiderProjects\ConsoleGraphics\ConsoleGraphics\obj\Debug\net8.0\ConsoleG.34D8F047.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmIoInAHCWI=",
+  "success": true,
+  "projectFilePath": "D:\\RiderProjects\\ConsoleGraphics\\ConsoleGraphics\\ConsoleGraphics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domca\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
