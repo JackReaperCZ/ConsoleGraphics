@@ -4,15 +4,15 @@ using SixLabors.ImageSharp.PixelFormats;
 
 namespace ConsoleGraphics;
 
-class Program
+internal static class Program
 {
     static void Main(String[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;
         
-        using (Image<Rgba32> image = Image.Load<Rgba32>(""))
+        using (Image<Rgba32> image = Image.Load<Rgba32>(args[0]))
         {
-            Draw.DrawImage(image);
+            Draw.DrawImage(Draw.ResizeImage(image,Console.WindowWidth,Console.WindowHeight));
         }
         
         Console.ReadKey();

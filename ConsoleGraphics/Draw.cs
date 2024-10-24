@@ -2,6 +2,7 @@
 using System.Text;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
+using SixLabors.ImageSharp.Processing;
 
 namespace ConsoleGraphics;
 
@@ -27,7 +28,7 @@ public static class Draw
                 lineBuilder.Append(c);
                 lineBuilder.Append(Base);
             }
-
+            
             // Add the line along with its row index to the concurrent bag
             lines.Add((y, lineBuilder.ToString()));
         });
@@ -36,6 +37,19 @@ public static class Draw
         foreach (var line in lines.OrderBy(item => item.Row))
         {
             Console.WriteLine(line.Line);
+        }
+    }
+    
+    public static Image<Rgba32> ResizeImage(Image<Rgba32> image, int outputWidth, int outputHeight)
+    {
+        // Load the image from file
+        using (image)
+        {
+            // Resize the image to the desired dimensions
+            image.Mutate(x => x.Resize(outputWidth, outputHeight));
+
+            // Clone the image into a new Image<Rgba32> to return
+            return image.Clone();
         }
     }
 }
